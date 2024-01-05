@@ -1,5 +1,6 @@
 # ssh-chain
 The script is based on the example from @geeknik [ssh tunnel proxy](https://github.com/geeknik/ssh-tunnel-proxy)
+" Leverage the power of DigitalOcean, proxychains and SSH to power your own proxy network. "
 
 -----
 For AWS, you'll need the AWS CLI installed and configured with your credentials. The script will create EC2 instances.
